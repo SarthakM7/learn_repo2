@@ -2,6 +2,8 @@
 #include <conio.h>
 main()
 {   
+   printf("end");
+   printf("there's no end")
 	int i,n;
 	float credits[10], marks[10],sum,total,cgpa;
 	printf("Grade to marks conversion:-\nGRADE O=10, A+=9, A=8, B+=7, B=6, etc.\n\n\n");
